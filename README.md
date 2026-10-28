@@ -18,3 +18,8 @@ cd backend && npm install && node setup_db.js && node server.js
 # Frontend
 cd frontend && npm install && npm run dev
 ```
+
+## Análisis en R
+
+`analisis/analisis_clientes.R`: tarea integradora de análisis y minería de datos sobre el mismo conjunto de clientes.
+Lee `clientes.csv` (copiar `datos_clientes.csv` con ese nombre junto al script) y se ejecuta con R o RStudio.
